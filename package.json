@@ -39,6 +39,10 @@
       "last 1 safari version"
     ]
   },
-  "type": "module"
+  "type": "module",
+  "engines" : { 
+    "npm" : ">=7.0.0",
+    "node" : ">=16.0.0"
+  }
 
 }
